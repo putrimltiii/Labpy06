@@ -29,7 +29,7 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 3. Setelah menambahkan data, fungsi akan mencetak pesan konfirmasi.
 
 # Fungsi Tampilan ()
-![Tampilkan data 11](https://github.com/user-attachments/assets/99cb95aa-f46b-47ef-a95f-c46be5bf1187)
+![Tampilkan data 11](https://github.com/user-attachments/assets/0446506b-34fc-4d1d-8388-2bad424952bb)
 1. Fungsi ini menampilkan semua data mahasiswa yang tersimpan dalam list.
    
 2. Jika list mahasiswa kosong, akan ditampilkan pesan bahwa tidak ada data.
@@ -38,10 +38,19 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 # Fungsi Hapus (nama)
 ![hapus data 11](https://github.com/user-attachments/assets/231d1b91-fc52-471b-b19c-1e4d0ce62d32)
+1. Fungsi ini menghapus data mahasiswa berdasarkan nama yang diberikan.
+   
+2. Menggunakan list comprehension, fungsi ini membuat list baru _mhs yang berisi semua mahasiswa kecuali yang namanya sama dengan nama yang diberikan.
+   
+3. Jika ada perubahan dalam jumlah mahasiswa, maka data mahasiswa diupdate dan akan mencetak pesan konfirmasi. Jika tidak, akan mencetak pesan bahwa data tidak ditemukan.
 
 # Ubah Data (nama)
 ![ubah data 11](https://github.com/user-attachments/assets/7ba65802-df62-4c52-8126-394a10685261)
-
+1. Fungsi ini digunakan untuk mengubah nilai mahasiswa berdasarkan nama.
+   
+2. Fungsi ini mencari mahasiswa yang namanya sama dengan nama yang diberikan dan mengubah nilainya menjadi nilai_baru.
+   
+3. Jika data ditemukan, akan mencetak pesan konfirmasi. Jika tidak, akan mencetak pesan bahwa data tidak ditemukan.
 
 
 
