@@ -52,6 +52,12 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
    
 3. Jika data ditemukan, akan mencetak pesan konfirmasi. Jika tidak, akan mencetak pesan bahwa data tidak ditemukan.
 
+# FLOWCHART
+![Flowchart 11](https://github.com/user-attachments/assets/2036f78d-51fd-4824-a055-b186dbec1977)
+
+# Latihan 11
+
+
 
 
 
