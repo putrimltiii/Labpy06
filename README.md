@@ -22,8 +22,23 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 # Fungsi Tambah ()
 ![tambah data 11](https://github.com/user-attachments/assets/2a14d292-3d37-4760-8927-9edc1b554435)
+1. Fungsi ini menerima dua parameter: nama dan nilai.
+   
+2. Fungsi ini akan menambahkan dictionary yang berisi nama dan nilai mahasiswa ke dalam list mahasiswa.
+   
+3. Setelah menambahkan data, fungsi akan mencetak pesan konfirmasi.
 
 # Fungsi Tampilan ()
+![Tampilkan data 11](https://github.com/user-attachments/assets/99cb95aa-f46b-47ef-a95f-c46be5bf1187)
+1. Fungsi ini menampilkan semua data mahasiswa yang tersimpan dalam list.
+   
+2. Jika list mahasiswa kosong, akan ditampilkan pesan bahwa tidak ada data.
+   
+3. Jika ada data, fungsi ini akan mencetak daftar mahasiswa beserta nilainya dengan nomor urut.
+
+# Fungsi Hapus (nama)
+
+
 
 
 
