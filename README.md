@@ -37,6 +37,10 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 3. Jika ada data, fungsi ini akan mencetak daftar mahasiswa beserta nilainya dengan nomor urut.
 
 # Fungsi Hapus (nama)
+![hapus nama 11](https://github.com/user-attachments/assets/b8099380-faaa-48ea-bc7f-a541cf79d4b2)
+
+
+
 
 
 
