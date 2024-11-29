@@ -56,7 +56,16 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 ![Flowchart 11](https://github.com/user-attachments/assets/2036f78d-51fd-4824-a055-b186dbec1977)
 
 # Latihan 11
+Ubahlah kode dibawah ini menjadi fungsi menggunakan lambada import math
 
+def a(x): return x**2
+
+def b(x, y): return math.sqrt(x2 + y2)
+
+def c(*args): return sum(args)/len(args)
+
+def d(s): return "".join(set(s))
+![latihan 11](https://github.com/user-attachments/assets/b8b73edf-bba9-4ab4-9e3a-2bf7ac0d4290)
 
 
 
