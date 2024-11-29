@@ -16,9 +16,14 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 • Buat flowchart dan penjelasan programnya
 
+# Program Sederhana
 ![codingan 11 1](https://github.com/user-attachments/assets/7ebdda2a-c7c7-41ec-9f8a-6977e6710dd3)
 ![codingan 11 2](https://github.com/user-attachments/assets/099d72b9-ad7e-4285-962e-1cc3112387a4)
 
+# Fungsi Tambah ()
+![tambah data 11](https://github.com/user-attachments/assets/2a14d292-3d37-4760-8927-9edc1b554435)
+
+# Fungsi Tampilan ()
 
 
 
